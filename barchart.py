@@ -4,6 +4,7 @@ def graph():
     x=["Kavi","Roni","Ethan","Mani","Jaz"]
     y=[94,85,25,50,54]
     y1=[78,100,67,89,90]
+    y2=[78,100,67,89,90]      
     i=np.arange(1,10,2)
     print("VALUES=",i)
     plt.xticks(i,x)
